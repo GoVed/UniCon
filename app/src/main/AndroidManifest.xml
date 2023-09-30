@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.group4.unicon">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/appicon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/appicon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".CurrConv"
+            android:theme="@style/CurrActivityTheme"/>
+        <activity
+            android:name=".TimeConv"
+            android:theme="@style/TimeActivityTheme" />
+        <activity
+            android:name=".WeightConv"
+            android:theme="@style/WeightActivityTheme" />
+        <activity
+            android:name=".ForceConv"
+            android:theme="@style/ForceActivityTheme" />
+        <activity
+            android:name=".EnergyConv"
+            android:theme="@style/EnergyActivityTheme" />
+        <activity
+            android:name=".SpeedConv"
+            android:theme="@style/SpeedActivityTheme" />
+        <activity
+            android:name=".VolumeConv"
+            android:theme="@style/VolumeActivityTheme" />
+        <activity
+            android:name=".AreaConv"
+            android:theme="@style/AreaActivityTheme" />
+        <activity
+            android:name=".LengthConv"
+            android:theme="@style/LengthActivityTheme" />
+        <activity
+            android:name=".TempConv"
+            android:theme="@style/TempActivityTheme" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

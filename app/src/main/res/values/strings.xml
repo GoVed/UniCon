@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UniCon</string>
+    <string name="mainTitleTextView">UNIVERSAL CONVERTER</string>
+    <string name="speed">Speed</string>
+    <string name="length">Length</string>
+    <string name="area">Area</string>
+    <string name="volume">Volume</string>
+    <string name="weight">Weight</string>
+    <string name="temperature">Temperature</string>
+    <string name="energy">Energy</string>
+    <string name="force">Force</string>
+    <string name="time">Time</string>
+    <string name="currency">Currency</string>
+    <string name="from">From </string>
+    <string name="to">To </string>
+    <string name="yourinp">Your input</string>
+    <string name="nullText">--------</string>
+</resources>

@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TempActivityTheme" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/tempBlue</item>
+    </style>
+
+    <style name="LengthActivityTheme" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/lengthGreen</item>
+    </style>
+
+    <style name="AreaActivityTheme" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/areaBlue</item>
+    </style>
+
+    <style name="VolumeActivityTheme" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/volumeRed</item>
+    </style>
+
+    <style name="SpeedActivityTheme" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/speedYellow</item>
+    </style>
+
+    <style name="EnergyActivityTheme" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/energyRed</item>
+    </style>
+
+    <style name="ForceActivityTheme" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/forceGrey</item>
+    </style>
+
+    <style name="WeightActivityTheme" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/weightBlue</item>
+    </style>
+
+    <style name="TimeActivityTheme" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/timeOrange</item>
+    </style>
+
+    <style name="CurrActivityTheme" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/currBlack</item>
+    </style>
+</resources>

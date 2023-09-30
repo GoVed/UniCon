@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#696969</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tempBlue">#5499CC</color>
+    <color name="lengthGreen">#6AD202</color>
+    <color name="areaBlue">#00CEF5</color>
+    <color name="volumeRed">#E53434</color>
+    <color name="speedYellow">#F5C800</color>
+    <color name="energyRed">#D90E07</color>
+    <color name="forceGrey">#B8C6A3</color>
+    <color name="weightBlue">#A2CABC</color>
+    <color name="timeOrange">#D38762</color>
+    <color name="currBlack">#4F5760</color>
+</resources>
